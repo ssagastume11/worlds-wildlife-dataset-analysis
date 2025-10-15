@@ -12,7 +12,7 @@ This project explores the relationship between **agricultural land use**, **spec
 **Source**: [World’s Wildlife Dataset on Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/worlds-wildlife)  
 **Provider**: Willian Oliveira Gibin  
 
-**Filename**: `yields-of-important-staple-crops new.csv`  
+**Filename**: `worlds_wildlife_cleaned.csv`  
 **Location**: Stored in the `data/` folder  
 
 **Fields include**:
@@ -49,7 +49,7 @@ The objective of this analysis is to investigate how agricultural land use and p
 ```plaintext
 worlds-wildlife-dataset-analysis/
 ├── data/
-│   ├── yields-of-importance-staple-crops new.csv
+│   ├── worlds_wildlife_cleaned.csv
 ├── sql/
 │   ├── Step 1_ask.sql
 │   ├── Step 2_prepare.sql

@@ -30,11 +30,11 @@ This project explores the relationship between **agricultural land use**, **spec
 
 ## 🔍 Business Task
 
-The objective of this analysis is to investigate how agricultural land use and productivity correlate with wildlife population changes and identify global patterns that support both **food security** and **biodiversity conservation**.
+The objective of this analysis is to investigate how agricultural land use and productivity correlate with changes in wildlife populations and to identify global patterns that support both **food security** and **biodiversity conservation**.
 
 **Key Goals:**
-- Examine correlations between crop yield and wildlife population trends.  
-- Identify regions that improved productivity while reducing habitat loss.  
+- Examine correlations between crop yields and wildlife population trends.
+- Identify regions that have improved productivity and reduced habitat loss.
 - Evaluate global trends in sustainable land management.
 
 ---
@@ -92,25 +92,24 @@ ORDER BY
 
 ## 📈 Analysis Output
 The final visualizations, saved in the `visuals/` folder, include:
-- 🌾 Maize Yield Trends Over Time: Global and regional productivity comparisons
-- 🦁 Wildlife Population Index Trends: Biodiversity change visualized by region
-- 🌎 Agricultural Land vs. Protected Area: Insights on sustainable land management
+- 🌾 Maize yield trends over time: Global and regional productivity comparisons
+- 🦁 Wildlife population index trends: Biodiversity changes visualized by region.
+- 🌎 Agricultural lands vs. protected areas: Perspectives on sustainable land management.
 
 ---
 
 ## 🧾 Presentation
 The final presentation (in the `presentation/` folder) summarizes:
-- Project purpose and research questions
-- Data preparation and cleaning steps
-- Key findings supported by visual analysis
-- Actionable recommendations for balancing productivity and conservation
-
+- Project purpose and research questions.
+- Data preparation and cleaning.
+- Key findings supported by visual analysis.
+- Actionable recommendations for balancing productivity and conservation.
 ---
 
 ## ✅ Next Steps
-- Integrate additional biodiversity and climate datasets for deeper insights
-- Expand analysis to include deforestation and water usage metrics
-- Build an interactive dashboard on **Tableau**
+- Integrate additional biodiversity and climate datasets for more detailed insights
+- Expand the analysis to include deforestation and water use metrics
+- Create an interactive dashboard in **Tableau**
 
 ---
 

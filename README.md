@@ -115,6 +115,6 @@ The final presentation (in the `presentation/` folder) summarizes:
 ---
 
 ## 🙌 Acknowledgments
-- Dataset courtesy of [William Oliveira Gilbin on Kaggle](https://www.kaggle.com/datasets/anoopjohny/2023-cars-dataset)
+- Dataset courtesy of [William Oliveira Gilbin on Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/worlds-wildlife)
 - Tools powered by Google Cloud, BigQuery, SQL, Tableau and open source communities.
 - Created with dedication and curiosity by **Sergio E. Sagastume**

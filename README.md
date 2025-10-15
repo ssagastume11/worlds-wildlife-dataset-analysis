@@ -3,7 +3,7 @@
 
 # 🌍 World’s Wildlife Dataset Analysis
 
-This project explores the relationship between **agricultural land use**, **species population decline**, and **regional productivity** using the *World’s Wildlife Dataset*. The analysis aims to understand how agricultural expansion impacts global biodiversity and identifies regions that successfully balance food production with wildlife conservation.
+This project explores the relationship between **agricultural land use**, **species population declines**, and **regional productivity** using the *World's Wildlife Dataset*. The analysis seeks to understand how agricultural expansion impacts global biodiversity and identify regions that successfully balance food production and wildlife conservation.
 
 ---
 

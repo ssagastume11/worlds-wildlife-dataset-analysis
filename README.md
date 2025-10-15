@@ -68,7 +68,7 @@ worlds-wildlife-dataset-analysis/
 ## 🧮 SQL Query (Maize Yield Trends by Total Yield Index)
 
 ```sql
--- sql/Maize Yield Trends by Country.sql
+-- sql/Maize Yield Trends by total_yield_index.sql
 SELECT
   Country,
   AVG(Maize_Yield_t_ha) AS avg_maize_yield_t_ha,

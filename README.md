@@ -12,19 +12,14 @@ This project explores the relationship between **agricultural land use**, **spec
 **Source**: [World’s Wildlife Dataset on Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/worlds-wildlife)  
 **Provider**: Willian Oliveira Gibin  
 
-**Filename**: `worlds_wildlife_dataset_cleaned.csv`  
-**Location**: Stored in the `data/cleaned/` folder  
+**Filename**: `yields-of-important-staple-crops new.csv`  
+**Location**: Stored in the `data/` folder  
 
 **Fields include**:
-- Country  
+- Country
+- Code Country  
 - Year  
-- Agricultural Land (% of total area)  
-- Crop Yield (tons per hectare)  
-- Wildlife Population Index  
-- Protected Land Area (%)  
-- Region  
-- GDP (USD)  
-- CO₂ Emissions (metric tons per capita)
+- Maize Yield (tons per hectare)  
 
 ---
 
@@ -33,7 +28,7 @@ This project explores the relationship between **agricultural land use**, **spec
 The objective of this analysis is to investigate how agricultural land use and productivity correlate with changes in wildlife populations and to identify global patterns that support both **food security** and **biodiversity conservation**.
 
 **Key Goals:**
-- Examine correlations between crop yields and wildlife population trends.
+- Examine correlations between maize yields and wildlife population trends.
 - Identify regions that have improved productivity and reduced habitat loss.
 - Evaluate global trends in sustainable land management.
 
@@ -70,7 +65,7 @@ worlds-wildlife-dataset-analysis/
 
 ---
 
-## 🧮 SQL Query (Maize Yield Trends by Country)
+## 🧮 SQL Query (Maize Yield Trends by Total Yield Index)
 
 ```sql
 -- sql/Maize Yield Trends by Country.sql

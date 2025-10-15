@@ -42,7 +42,7 @@ The objective of this analysis is to investigate how agricultural land use and p
 ## 📊 Tools & Technology
 
 - **Google BigQuery** for SQL-based data cleaning and analysis  
-- **R** and **Looker Studio** for data visualization and storytelling  
+- **Tableau** and **Looker Studio** for data visualization and storytelling  
 - **Google Sheets** for data review and metadata documentation  
 - **PowerPoint / Google Slides** for final presentation deliverables  
 - **Git & GitHub** for version control and project collaboration  
@@ -92,27 +92,29 @@ ORDER BY
 
 ## 📈 Analysis Output
 The final visualizations, saved in the `visuals/` folder, include:
-- 🎖️ Horsepower vs. Fuel Efficiency: highlighting trade-offs across brands
-- 💰 Market Positioning by Car Make: showing how affordability, efficiency, and performance vary across manufacturers
+- 🌾 Maize Yield Trends Over Time: Global and regional productivity comparisons
+- 🦁 Wildlife Population Index Trends: Biodiversity change visualized by region
+- 🌎 Agricultural Land vs. Protected Area: Insights on sustainable land management
 
 ---
 
 ## 🧾 Presentation
 The final presentation (in the `presentation/` folder) summarizes:
-- Project purpose and scope
-- Data preparation steps
-- Key findings with visuals
-- Actionable recommendations
+- Project purpose and research questions
+- Data preparation and cleaning steps
+- Key findings supported by visual analysis
+- Actionable recommendations for balancing productivity and conservation
 
 ---
 
 ## ✅ Next Steps
-- Expand analysis to include safety ratings and customer satisfaction
-- Compare EVs vs. traditional fuel vehicles for performance and efficiency
-- Build a dashboard version using Looker Studio for interactive exploration
+- Integrate additional biodiversity and climate datasets for deeper insights
+- Expand analysis to include deforestation and water usage metrics
+- Build an interactive dashboard on **Tableau**
 
 ---
 
 ## 🙌 Acknowledgments
-- Dataset courtesy of [Anoop Johny on Kaggle](https://www.kaggle.com/datasets/anoopjohny/2023-cars-dataset)
-- Tools powered by Google Cloud, BigQuery, SQL, Python and open source communities.
+- Dataset courtesy of [William Oliveira Gilbin on Kaggle](https://www.kaggle.com/datasets/anoopjohny/2023-cars-dataset)
+- Tools powered by Google Cloud, BigQuery, SQL, Tableau and open source communities.
+- Created with dedication and curiosity by **Sergio E. Sagastume**

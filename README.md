@@ -1,6 +1,18 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/ssagastume11/worlds-wildlife-dataset-analysis)
 ![Last Commit](https://img.shields.io/github/last-commit/ssagastume11/worlds-wildlife-dataset-analysis)
 
+## 📊 Interactive Dashboard  
+
+Explore the interactive Tableau dashboard here: 
+🔗 [World's Wildlife Analysis](https://public.tableau.com/views/WorldsWildlifeAnalysis/WorldsWildlifeAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This dashboard visualizes global maiz yield trends, biodiversity impacts, and productivity comparisons using the WOrld's Wildlife Dataset. It includes:
+- KPI cards for Global Median Yield, Average Yearly Growth, and Top 3 Performing Countries
+- Bar charts for comparative insights per country
+- Map insights by country and productivity status
+
+---
+
 # 🌍 World’s Wildlife Dataset Analysis
 
 This project explores the relationship between **agricultural land use**, **species population declines**, and **regional productivity** using the *World's Wildlife Dataset*. The analysis seeks to understand how agricultural expansion impacts global biodiversity and identify regions that successfully balance food production and wildlife conservation.
